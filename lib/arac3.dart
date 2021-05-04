@@ -1,8 +1,7 @@
 import 'package:arac_takip_app/ararc3_sayac.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter/widgets.dart';
+
 
 class arac3 extends StatefulWidget {
   @override
