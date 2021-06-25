@@ -25,7 +25,9 @@ class _aracekle extends State<aracekle> {
           title: const Text('Araç Ekleme Arayüzü'),
           centerTitle: true,
         ),
-        body: Center(
+        body: Container(
+          width:500 ,
+          height:500,
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[

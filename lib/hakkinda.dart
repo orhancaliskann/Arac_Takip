@@ -17,7 +17,7 @@ class hakkinda extends StatelessWidget {
 
 
 
-      Text("Bu uygulama Dr. Öğretim Üyesi Ahmet Cevahir ÇINAR tarafından yürütülen 3301456 kodlu MOBİL PROGRAMLAMA dersi kapsamında 793301014 numaralı Orhan Çalışkan tarafından 30 Nisan 2021 günü yapılmıştır.")
+      Text("Bu uygulama Dr. Öğretim Üyesi Ahmet Cevahir ÇINAR tarafından yürütülen 3301456 kodlu MOBİL PROGRAMLAMA dersi kapsamında 793301014 numaralı Orhan Çalışkan tarafından 25 Haziran 2021 günü yapılmıştır.")
     ],
 
     ),

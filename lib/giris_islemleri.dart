@@ -2,6 +2,7 @@ import 'package:arac_takip_app/arac_ekle.dart';
 import 'package:arac_takip_app/garage.dart';
 import 'package:arac_takip_app/hakkinda.dart';
 import 'package:arac_takip_app/iletisim_randevu.dart';
+import 'package:arac_takip_app/trigerORzincir.dart';
 import 'package:flutter/material.dart';
 
 class Islemler extends StatefulWidget {
@@ -48,7 +49,7 @@ class _islemler extends State<Islemler> {
                   Navigator.push(
                     context,
                     MaterialPageRoute(
-                        builder: (BuildContext context) => garage()),
+                        builder: (BuildContext context) => trigerORzincir()),
                   );
                 },
               ),

@@ -1,18 +1,26 @@
-import 'package:arac_takip_app/arac1.dart';
+import 'package:arac_takip_app/Arac1zincir.dart';
+import 'package:arac_takip_app/Arac2zincir.dart';
+import 'package:arac_takip_app/Arac3zincir.dart';
+import 'package:arac_takip_app/Arac4zincir.dart';
 import 'package:arac_takip_app/arac2.dart';
 import 'package:arac_takip_app/arac3.dart';
 import 'package:arac_takip_app/arac4.dart';
 import 'package:arac_takip_app/bakim_bilgi.dart';
 import 'package:flutter/material.dart';
 
-class garage extends StatefulWidget {
+
+
+
+
+
+class garage2 extends StatefulWidget {
   @override
   State<StatefulWidget> createState() {
-    return _garage();
+    return _garage2();
   }
 }
 
-class _garage extends State<garage> {
+class _garage2 extends State<garage2> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -38,7 +46,7 @@ class _garage extends State<garage> {
                   Navigator.push(
                     context,
                     MaterialPageRoute(
-                      builder: (BuildContext context) => arac1(),
+                      builder: (BuildContext context) => arac1z(),
                     ),
                   );
                 }),
@@ -50,7 +58,7 @@ class _garage extends State<garage> {
                   Navigator.push(
                     context,
                     MaterialPageRoute(
-                      builder: (BuildContext context) => arac2(),
+                      builder: (BuildContext context) => arac2z(),
                     ),
                   );
                 }),
@@ -62,7 +70,7 @@ class _garage extends State<garage> {
                   Navigator.push(
                     context,
                     MaterialPageRoute(
-                      builder: (BuildContext context) => arac3(),
+                      builder: (BuildContext context) => arac3z(),
                     ),
                   );
                 }),
@@ -74,7 +82,7 @@ class _garage extends State<garage> {
                   Navigator.push(
                     context,
                     MaterialPageRoute(
-                      builder: (BuildContext context) => arac4(),
+                      builder: (BuildContext context) => arac4z(),
                     ),
                   );
                 }),
