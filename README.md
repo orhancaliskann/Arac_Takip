@@ -7,4 +7,4 @@ A new Flutter application.
 Bu proje  size araçlarınızın kayıtlarını cep telefonunuzla kolayca tutabilmenizi . İlerleyen sürümlerde size bildirim de göndermesi planlanan bu uygulama birden fazla araç ile kendi garajınızı telefonunuzda oluşturmanızı sağlar.
 
 
-![](App_Image/Bakım_grafik.jpg)
+![](App_Image/ana_ekran.jpg)
